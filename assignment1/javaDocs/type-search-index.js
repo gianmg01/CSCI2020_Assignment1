@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"FactoryPatternMain"},{"p":"<Unnamed>","l":"ForestMonster"},{"p":"<Unnamed>","l":"Monster"},{"p":"<Unnamed>","l":"MonsterFactory"},{"p":"<Unnamed>","l":"MountainMonster"},{"p":"<Unnamed>","l":"OceanMonster"},{"p":"<Unnamed>","l":"SkyMonster"}];updateSearchResults();
